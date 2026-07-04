@@ -1,4 +1,4 @@
-# Hey, I'm Tushar! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Sahil! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
 <b>Call Me 👇</b>
@@ -18,7 +18,7 @@
 
 ###
 
-🌐 I'm passionate about building systems with IoT, cloud, and web technologies.\
+🌐 I'm passionate about building systems with Cyber Security, cloud, and web technologies.\
 🚀 I'm always exploring emerging tools and platforms to stay ahead in the tech world.\
 🤝 I enjoy collaborating on innovative projects, especially those involving smart devices, automation, or connected systems.\
 🎯 In my free time, I dive into tech blogs, creative coding, and experimenting with new ideas to fuel my inspiration.
